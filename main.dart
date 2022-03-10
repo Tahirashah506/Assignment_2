@@ -1,0 +1,31 @@
+void main(){
+  print(" Twinkle, twinkle, little star.\n \tHow I wonder what you are !\n\t\tUp above the world so high,\n\t\tLike a diamond in te sky.\n\ttwinkle, twinkle, little star,\nHow I wonder what you are");
+  String a="Tahira";
+  String a1="shah";
+  int a2=19;
+  int a3= 20000;
+  print(a. runtimeType);
+  print(a1);
+  print(a2.runtimeType);
+  print(a3);
+  int b=7;
+  int b1=10;
+  int sum=b+b1;
+ print("sum of ${b} and ${b1} is: \t ${sum}");
+ int b2=20;
+ int b3=6;
+ int sub=b2-b3;
+ print("sum of ${b2} and ${b3} is; \t ${sub}");
+ int c=2;
+ int c1=6;
+ int multi=c*c1;
+ print("multi of ${c} and ${c1} is; \t ${multi}");
+ int c2=13;
+ int c3=3;
+ double division=c2/c3;
+ print("division of ${c2} and ${c3} is; \t ${division}");
+ int d=5;
+ int d1=2;
+ int reminder=5%2;
+ print("reminder of %{d} and ${d1} is; \t ${reminder}");
+}
